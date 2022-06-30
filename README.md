@@ -10,6 +10,7 @@ Hello👋, my name is Niklas Lang and I am a corporate student at SAP currently 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=niklas-la&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=niklas-la&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/wakatime?username=niklas_la&theme=dark&hide_border=false)<br>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=niklas-la&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
 
 ---
