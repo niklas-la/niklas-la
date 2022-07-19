@@ -29,6 +29,3 @@ Hello👋, my name is Niklas Lang and I am a corporate student at SAP currently 
 <a href="https://github.com/maximiliantech#gh-dark-mode-only">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niklas-la&theme=github-dark&hide_border=true#gh-dark-mode-only" alt="My GitHub Stats" />
 </a>
-
----
-[![](https://visitcount.itsvg.in/api?id=niklas-la&icon=0&color=0)](https://visitcount.itsvg.in)
