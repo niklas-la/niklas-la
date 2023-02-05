@@ -12,23 +12,23 @@ Hello👋, my name is Niklas Lang and I am a corporate student at [SAP](https://
 
 # 📊 GitHub Stats:
 <!-- Light mode -->
-<a href="https://github.com/maximiliantech#gh-light-mode-only">
+<a href="https://github.com/niklas-la#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=niklas-la&count_private=true&show_icons=true&theme=light&hide_border=true#gh-light-mode-only" alt="My GitHub Stats" />
 </a>
-<a href="https://github.com/maximiliantech#gh-light-mode-only">
+<a href="https://github.com/niklas-la#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niklas-la&show_icons=true&theme=light&hide_border=true&layout=compact#gh-light-mode-only" alt="Top Languages" />
 </a>
-<a href="https://github.com/maximiliantech#gh-light-mode-only">
+<a href="https://github.com/niklas-la#gh-light-mode-only">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niklas-la&theme=light&hide_border=false&hide_border=true#gh-light-mode-only" alt="My GitHub Stats" />
 </a>
 
 <!-- Dark Mode -->
-<a href="https://github.com/maximiliantech#gh-dark-mode-only">
+<a href="https://github.com/niklas-la#gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=niklas-la&count_private=true&show_icons=true&theme=github_dark&hide_border=true&icon_color=386DE3&title_color=6CD064#gh-dark-mode-only" alt="My GitHub Stats" />
 </a>
-<a href="https://github.com/maximiliantech#gh-dark-mode-only">
+<a href="https://github.com/niklas-la#gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niklas-la&show_icons=true&theme=github_dark&hide_border=true&layout=compact&title_color=6CD064#gh-dark-mode-only" alt="Top Languages" />
 </a>
-<a href="https://github.com/maximiliantech#gh-dark-mode-only">
+<a href="https://github.com/niklas-la#gh-dark-mode-only">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niklas-la&theme=github-dark&hide_border=true#gh-dark-mode-only" alt="My GitHub Stats" />
 </a>
