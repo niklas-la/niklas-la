@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello👋, my name is Niklas Lang and I am a corporate student at [SAP](https://github.com/SAP) currently doing my Bachelor in Business Information Technology at the University of Cooperative Education Dresden. At work as well as in my private life I am engaged in various topics (e.g. machine learning / data science, quantum computing, alternative human-computer interfaces). I am always happy to meet new people and to engage in active exchange with them.
+Hello👋, my name is Niklas Lang and I am currently studying Business Intelligence & Analytics at the TU-Chemnitz. I am also an Associate Development Consultant at [SAP](https://github.com/SAP). Both professionally and privately, I deal with various topics (e.g. machine learning / data science, data engineering and cloud). I am always happy to meet new people and engage in a lively exchange with them.
 
 
 ## 🌐 Socials:
